@@ -50,6 +50,6 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 For any inquiries or further information, feel free to reach out to me:
 
 - **Email**: pranaychavhan2102@gmail.com
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/pranay_chavhan)
+- **LinkedIn**: [Peanay Chavhan](https://www.linkedin.com/in/pranay_chavhan)
 
 Let's make sign language accessible and inclusive with SignSense!
