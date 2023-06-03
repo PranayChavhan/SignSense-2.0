@@ -43,15 +43,13 @@ To set up and run the SignSense application locally, follow these steps:
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Let's work together to improve SignSense and make it more accessible for everyone.
 
-## 📝 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this code for educational and non-commercial purposes.
 
 ## 📧 Contact
 
 For any inquiries or further information, feel free to reach out to me:
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/your-name)
+- **Email**: pranaychavhan2102@gmail.com
+- **LinkedIn**: [Your Name](https://www.linkedin.com/in/pranay_chavhan)
 
 Let's make sign language accessible and inclusive with SignSense!
