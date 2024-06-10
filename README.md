@@ -34,7 +34,7 @@ The SignSense model is trained using a neural network architecture that incorpor
 
 To set up and run the SignSense application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/SignSense.git`
+1. Clone the repository: `git clone https://github.com/pranaychavhan/SignSense.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
 4. Access the application in your browser at `http://localhost:5000`
@@ -49,7 +49,15 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 For any inquiries or further information, feel free to reach out to me:
 
-- **Email**: pranaychavhan2102@gmail.com
+- **Email**: chavhanpranay48@gmail.com
 - **LinkedIn**: [Peanay Chavhan](https://www.linkedin.com/in/pranay_chavhan)
 
 Let's make sign language accessible and inclusive with SignSense!
+
+![IMG-20230523-WA0011](https://github.com/PranayChavhan/BookMyFlight/assets/85397500/739269eb-0c41-4cf9-99b0-a7f2d7154d59)
+![IMG-20230523-WA0012](https://github.com/PranayChavhan/BookMyFlight/assets/85397500/372a749f-4801-4e1b-85b4-528d9d5e0c17)
+![IMG-20230523-WA0013](https://github.com/PranayChavhan/BookMyFlight/assets/85397500/3b92c9b0-b542-4fe7-870a-3f6abf643fe4)
+![IMG-20230523-WA0016](https://github.com/PranayChavhan/BookMyFlight/assets/85397500/26337f3c-9161-4dad-8d7f-339bbdb4e527)
+![IMG-20230523-WA0017](https://github.com/PranayChavhan/BookMyFlight/assets/85397500/bca2f99b-2b83-4364-bad2-f4fe88fa167a)
+![IMG-20230523-WA0018](https://github.com/PranayChavhan/BookMyFlight/assets/85397500/970cab04-6aa1-4654-8565-8ea90ce1a2d3)
+
